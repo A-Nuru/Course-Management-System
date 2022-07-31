@@ -21,4 +21,12 @@ Thus, this project needs a mixture of tools such as
 
 C sharp programming language is used in this project in a .Net environment
 
+## File Descriptions
+Since best practices for Object Oriented Programming such as encapsulation, abstraction, polymorphism, interface and Page Object Model are employed, the files are separated into differenet folders namely:
+- Features folder - containing the  feature files
+- StepDefinitions folder - containing the StepDefinitions files
+- BrowserFactories folder - containing the BrowserFactories files
+- SetUp folder - containing the Setup files
+
+
 
