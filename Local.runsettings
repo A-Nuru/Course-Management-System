@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="baseUrl" value="http://localhost/CourseManagementSystem/" />
+    <Parameter name="browser" value="chrome" />
+    <Parameter name="connectionString" value="Integrated Security=True;Initial Catalog=CourseManagementSystem.Models.SchoolContext;Data Source=DESKTOP-O64GGNA" />    
+  </TestRunParameters>
+</RunSettings>  
